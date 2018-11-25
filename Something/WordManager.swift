@@ -6,7 +6,7 @@ class WordManager {
 
     
     init() {
-        words = ["an idiotic", "a helpless", "a dumb", "a stupid", "an utter", "an absolute", "a pointless", "a smelly", "a bloomin'", "a cuntin'", "a bitchin'"]
+        words = ["an idiotic", "a helpless", "a dumb", "a stupid", "an utter", "an absolute", "a pointless", "a smelly", "a bloomin'"]
     }
     
     
